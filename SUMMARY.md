@@ -5,7 +5,7 @@
 * [1. bash basics](1.-bash-basics.md)
 * [2. ROOT](2.-root.md)
 * [3. Terminal of Mac](3.-terminal-of-mac.md)
-* [4. GRB Introduce](4.-grb-introduce.md)
+* [4. Gamma Ray Burst](4.-gamma-ray-burst.md)
 * [5. 探测器性能参数](5.-tan-ce-qi-xing-neng-can-shu.md)
 * [6. Python](6.-python.md)
 * [7. 探测器灵敏度计算方法](7.-tan-ce-qi-ling-min-du-ji-suan-fang-fa.md)
