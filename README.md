@@ -14,7 +14,7 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: false
+    visible: true
 ---
 
 # 学习手册
