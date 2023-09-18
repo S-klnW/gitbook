@@ -11,4 +11,4 @@
 * [7. Astronomy](8.-tian-wen-xue.md)
 * [8. C / C++ Guide](8.-c-c++-guide.md)
 * [8. Latex](8.-latex.md)
-* [9. 相变与临界现象(Phase Transitions and Critical Phenomena)](9.-xiang-bian-yu-lin-jie-xian-xiang-phase-transitions-and-critical-phenomena.md)
+* [9. Phase Transitions and Critical Phenomena](9.-phase-transitions-and-critical-phenomena.md)
