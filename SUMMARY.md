@@ -10,3 +10,4 @@
 * [6. Sensitivity calculation](7.-tan-ce-qi-ling-min-du-ji-suan-fang-fa.md)
 * [7. Astronomy](8.-tian-wen-xue.md)
 * [8. C / C++ Guide](8.-c-c++-guide.md)
+* [8. Latex](8.-latex.md)
