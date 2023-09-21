@@ -1,10 +1,6 @@
 ---
 description: 务必谦虚谨慎、艰苦奋斗；务必敢于斗争、善于斗争
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
