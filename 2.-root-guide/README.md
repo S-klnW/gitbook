@@ -5,6 +5,6 @@ description: >-
 
 # 2. ROOT Guide
 
-ROOT是一个可以帮助你科学地分析PB级数据的强大工具，想要系统的学习ROOT的用法，可以通过[ROOT官网](https://root.cern.ch)及手册来查阅ROOT的使用方法：​
+[安装](2.0.-an-zhuang-yu-shi-yong.md#ming-ling-hang-ji-ben-ming-ling)
 
-{% file src="../.gitbook/assets/ROOT User's Guide Ver.2018.pdf" %}
+[ 你](2.4.-jian-dan-tu-xing.md#ju-xing-tbox)

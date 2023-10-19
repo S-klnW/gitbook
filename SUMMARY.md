@@ -11,7 +11,6 @@
   * [2.4. 简单图形](2.-root-guide/2.4.-jian-dan-tu-xing.md)
   * [2.4. 美化工作](2.-root-guide/2.4.-mei-hua-gong-zuo.md)
   * [Page 1](2.-root-guide/page-1.md)
-* [2. ROOT Guide](2.-root-guide-1.md)
 * [3. Mac Terminal](3.-mac-terminal.md)
 * [4. Gamma Ray Burst](4.-gamma-ray-burst.md)
 * [5. Cosmic Rays and Particle Physics](5.-cosmic-rays-and-particle-physics.md)
