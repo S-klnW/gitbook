@@ -19,5 +19,3 @@
 * [8. C / C++ Guide](8.-c-c++-guide.md)
 * [8. Latex](8.-latex.md)
 * [9. Phase Transitions and Critical Phenomena](9.-phase-transitions-and-critical-phenomena.md)
-
-## Group 1
