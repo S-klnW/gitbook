@@ -9,7 +9,7 @@
   * [2.2. 统计直方 Histogram](2.-root-guide/2.2.-tong-ji-zhi-fang-histogram.md)
   * [2.3. 图形方程 TGraph](2.-root-guide/2.3.-tu-xing-fang-cheng-tgraph.md)
   * [2.4. 简单图形](2.-root-guide/2.4.-jian-dan-tu-xing.md)
-  * [2.4. 美化工作](2.-root-guide/2.4.-mei-hua-gong-zuo.md)
+  * [2.4. 风格设置 gStyle](2.-root-guide/2.4.-feng-ge-she-zhi-gstyle.md)
   * [Page 1](2.-root-guide/page-1.md)
 * [3. Mac Terminal](3.-mac-terminal.md)
 * [4. Gamma Ray Burst](4.-gamma-ray-burst.md)
