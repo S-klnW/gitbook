@@ -3,7 +3,15 @@
 * [学习手册](README.md)
 * [0. Linux Commands](0.-linux-commands.md)
 * [1. Bash Introduce](1.-bash-introduce.md)
-* [2. ROOT Guide](2.-root-guide.md)
+* [2. ROOT Guide](2.-root-guide/README.md)
+  * [2.0. 安装与使用](2.-root-guide/2.0.-an-zhuang-yu-shi-yong.md)
+  * [2.1. 文件与数据处理](2.-root-guide/2.1.-wen-jian-yu-shu-ju-chu-li.md)
+  * [2.2. 统计直方 Histogram](2.-root-guide/2.2.-tong-ji-zhi-fang-histogram.md)
+  * [2.3. 图形方程 TGraph](2.-root-guide/2.3.-tu-xing-fang-cheng-tgraph.md)
+  * [2.4. 简单图形](2.-root-guide/2.4.-jian-dan-tu-xing.md)
+  * [2.4. 美化工作](2.-root-guide/2.4.-mei-hua-gong-zuo.md)
+  * [Page 1](2.-root-guide/page-1.md)
+* [2. ROOT Guide](2.-root-guide-1.md)
 * [3. Mac Terminal](3.-mac-terminal.md)
 * [4. Gamma Ray Burst](4.-gamma-ray-burst.md)
 * [5. Cosmic Rays and Particle Physics](5.-cosmic-rays-and-particle-physics.md)
@@ -12,3 +20,5 @@
 * [8. C / C++ Guide](8.-c-c++-guide.md)
 * [8. Latex](8.-latex.md)
 * [9. Phase Transitions and Critical Phenomena](9.-phase-transitions-and-critical-phenomena.md)
+
+## Group 1
