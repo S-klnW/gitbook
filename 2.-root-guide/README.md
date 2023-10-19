@@ -5,6 +5,3 @@ description: >-
 
 # 2. ROOT Guide
 
-[安装](2.0.-an-zhuang-yu-shi-yong.md#ming-ling-hang-ji-ben-ming-ling)
-
-[ 你](2.4.-jian-dan-tu-xing.md#ju-xing-tbox)
