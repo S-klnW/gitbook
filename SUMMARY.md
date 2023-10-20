@@ -11,6 +11,7 @@
   * [2.4. 简单图案](2.-root-guide/2.4.-jian-dan-tu-an.md)
   * [2.4. 风格设置 gStyle](2.-root-guide/2.4.-mei-hua-gong-zuo.md)
   * [2.5. 色彩设置 TColor](2.-root-guide/2.5.-se-cai-she-zhi-tcolor.md)
+  * [2.6. 文字 TLatex](2.-root-guide/2.6.-wen-zi-tlatex.md)
   * [Page](2.-root-guide/page.md)
   * [Page 1](2.-root-guide/page-1.md)
 * [3. Mac Terminal](3.-mac-terminal.md)
