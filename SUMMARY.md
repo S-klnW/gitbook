@@ -10,6 +10,8 @@
   * [2.3. 图形方程 TGraph TF](2.-root-guide/2.3.-tu-xing-fang-cheng-tgraph-tf.md)
   * [2.4. 简单图案](2.-root-guide/2.4.-jian-dan-tu-an.md)
   * [2.4. 风格设置 gStyle](2.-root-guide/2.4.-mei-hua-gong-zuo.md)
+  * [2.5. 色彩设置 TColor](2.-root-guide/2.5.-se-cai-she-zhi-tcolor.md)
+  * [Page](2.-root-guide/page.md)
   * [Page 1](2.-root-guide/page-1.md)
 * [3. Mac Terminal](3.-mac-terminal.md)
 * [4. Gamma Ray Burst](4.-gamma-ray-burst.md)
