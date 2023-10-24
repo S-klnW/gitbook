@@ -9,7 +9,7 @@
   * [2.2. 直方图 Histograms](2.-root-guide/2.2.-zhi-fang-tu-histograms.md)
   * [2.3. 图表 Graphs](2.-root-guide/2.3.-tu-biao-graphs.md)
   * [2.4. 图形 Graphics](2.-root-guide/2.4.-tu-xing-graphics.md)
-  * [2.4. 风格设置 gStyle](2.-root-guide/2.4.-mei-hua-gong-zuo.md)
+  * [2.4. 属性设置 TAtt](2.-root-guide/2.4.-shu-xing-she-zhi-tatt.md)
   * [2.5. 色彩设置 TColor](2.-root-guide/2.5.-se-cai-she-zhi-tcolor.md)
   * [2.6. 文字 TLatex](2.-root-guide/2.6.-wen-zi-tlatex.md)
   * [Page](2.-root-guide/page.md)
