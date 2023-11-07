@@ -11,7 +11,6 @@
   * [2.4. 图形 Graphics](2.-root-guide/2.4.-tu-xing-graphics.md)
   * [2.5. 色彩设置 TColor](2.-root-guide/2.5.-se-cai-she-zhi-tcolor.md)
   * [2.6. 属性设置 TAtt](2.-root-guide/2.6.-shu-xing-she-zhi-tatt.md)
-  * [Page](2.-root-guide/page.md)
   * [2.7. LaTeX公式 TLatex](2.-root-guide/2.7.-latex-gong-shi-tlatex.md)
 * [3. Mac Terminal](3.-mac-terminal.md)
 * [4. Gamma Ray Burst](4.-gamma-ray-burst.md)
