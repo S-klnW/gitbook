@@ -1,5 +1,5 @@
 ---
-description: 务必谦虚谨慎、艰苦奋斗；务必敢于斗争、善于斗争
+description: 细推物理须行乐 何用浮名绊此身  ——《曲江二首》杜甫
 layout:
   title:
     visible: true
