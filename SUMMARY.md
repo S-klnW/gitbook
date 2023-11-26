@@ -4,7 +4,7 @@
 * [1. Linux Introduce](0.-linux-commands/README.md)
   * [1.1. 系统管理类命令](0.-linux-commands/1.1.-xi-tong-guan-li-lei-ming-ling.md)
   * [1.2. 文件管理类命令](0.-linux-commands/1.2.-wen-jian-guan-li-lei-ming-ling.md)
-  * [1.3. Bash介绍](0.-linux-commands/1.-bash-introduce.md)
+  * [1.3. Bash介绍与文本处理](0.-linux-commands/1.-bash-introduce.md)
   * [1.4. 附录](0.-linux-commands/1.4.-fu-lu.md)
   * [1.5. Mac Terminal](0.-linux-commands/3.-mac-terminal.md)
 * [2. ROOT Guide](2.-root-guide/README.md)
