@@ -2,7 +2,7 @@
 description: Linux 是免费可自由传播的类 Unix 操作系统，是一个基于 POSIX 和 Unix 的多用户、多任务、支持多线程和多 CPU 的操作系统。
 ---
 
-# 0. Linux Commands
+# 1. Linux Introduce
 
 **阅读前言：**[**命令行的艺术**](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 
@@ -49,7 +49,7 @@ _**关闭**_
 
 **passwd命令** 用于设置用户的认证信息，包括用户密码、密码过期时间等。系统管理者则能用它管理系统用户的密码。只有管理者可以指定用户名称需改密码，普通用户只能修改自己的密码。
 
-在root账户下，修改其他用户的密码方式参考[这里](0.-linux-commands.md#yong-hu-guan-li)；找回root用户的密码，参考[这里](http://t.zoukankan.com/canyezhizi-p-13574958.html)。
+在root账户下，修改其他用户的密码方式参考[这里](./#yong-hu-guan-li)；找回root用户的密码，参考[这里](http://t.zoukankan.com/canyezhizi-p-13574958.html)。
 
 
 
@@ -112,7 +112,7 @@ Host klcr
 
 至此，就完成了服务器的别名配置，输入`ssh klcr`即可免密访问服务器。
 
-[**配置指令别名**](0.-linux-commands.md#pei-zhi-bie-ming) 设置别称`alias klcr='ssh -XY klcr'`实现仅输入服务器别称`klcr`完成登录。
+[**配置指令别名**](./#pei-zhi-bie-ming) 设置别称`alias klcr='ssh -XY klcr'`实现仅输入服务器别称`klcr`完成登录。
 
 
 
@@ -198,7 +198,7 @@ drwx------ 3 lixl ybj 4096 Aug  1 13:40 lixl
 
 **w命令** 用于显示已经登陆系统的用户列表，并显示用户正在执行的指令。
 
-<mark style="color:green;">**w命令**</mark> <mark style="color:green;"></mark><mark style="color:green;">还可用于查看系统时间，这一点和</mark><mark style="color:green;">**uptime命令**</mark> <mark style="color:green;"></mark><mark style="color:green;">作用一致。更多关于时间的命令可以参考</mark>[附录](0.-linux-commands.md#time-ming-ling-yong-yu-tong-ji-gei-ding-ming-ling-suo-hua-fei-de-zong-shi-jian)<mark style="color:green;">。</mark>
+<mark style="color:green;">**w命令**</mark> <mark style="color:green;"></mark><mark style="color:green;">还可用于查看系统时间，这一点和</mark><mark style="color:green;">**uptime命令**</mark> <mark style="color:green;"></mark><mark style="color:green;">作用一致。更多关于时间的命令可以参考</mark>[附录](./#time-ming-ling-yong-yu-tong-ji-gei-ding-ming-ling-suo-hua-fei-de-zong-shi-jian)<mark style="color:green;">。</mark>
 
 ```bash
  -f, --from          显示用户从哪登录；
@@ -475,7 +475,7 @@ _**相对路径：**_ 仅指定从工作目录到达该文件所需的路径。
 
 ## 文件管理
 
-从现在开始我们要学会使用 `man` 命令（manual）去阅读命令使用介绍。你可以用 `type 命令` 来判断这个命令到底是可执行文件、shell内置命令还是别名，`type`的使用方法参考[附录](0.-linux-commands.md#type-ming-ling-xian-shi-zhi-ding-ming-ling-de-lei-xing)。**注意：**
+从现在开始我们要学会使用 `man` 命令（manual）去阅读命令使用介绍。你可以用 `type 命令` 来判断这个命令到底是可执行文件、shell内置命令还是别名，`type`的使用方法参考[附录](./#type-ming-ling-xian-shi-zhi-ding-ming-ling-de-lei-xing)。**注意：**
 
 {% hint style="success" %}
 1. **Linux对文件后缀不严格限制**
@@ -1046,4 +1046,4 @@ is is a
 3
 ```
 
-{% file src=".gitbook/assets/Linux命令行与shell脚本编程大全.pdf" %}
+{% file src="../.gitbook/assets/Linux命令行与shell脚本编程大全.pdf" %}
