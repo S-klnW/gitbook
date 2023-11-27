@@ -16,7 +16,7 @@
   * [2.4. 函数 Function](2.-root-guide/2.4.-han-shu-function.md)
   * [2.5. 图形 Graphics](2.-root-guide/2.5.-tu-xing-graphics.md)
   * [2.5. 属性设置 TAtt](2.-root-guide/2.5.-shu-xing-she-zhi-tatt.md)
-  * [2.5.1 色彩设置 TColor](2.-root-guide/2.5.1-se-cai-she-zhi-tcolor.md)
+  * [2.5.1 颜色设置 TColor](2.-root-guide/2.5.1-yan-se-she-zhi-tcolor.md)
   * [2.5.3 轴属性 Axis](2.-root-guide/2.5.3-zhou-shu-xing-axis.md)
   * [2.5.2 文字与数学公式 TLatex](2.-root-guide/2.5.2-wen-zi-yu-shu-xue-gong-shi-tlatex.md)
 * [3. Cosmic Rays and Particle Physics](5.-cosmic-rays-and-particle-physics.md)
