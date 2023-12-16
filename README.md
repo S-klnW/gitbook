@@ -1,6 +1,6 @@
 ---
 description: 细推物理须行乐 何用浮名绊此身  ——《曲江二首》杜甫
-cover: .gitbook/assets/2048-dark.jpeg
+cover: .gitbook/assets/hello-developer-dark-xlarge_2x.png
 coverY: 0
 layout:
   cover:
