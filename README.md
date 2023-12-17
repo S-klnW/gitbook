@@ -1,11 +1,11 @@
 ---
 description: 细推物理须行乐 何用浮名绊此身  ——《曲江二首》杜甫
-cover: .gitbook/assets/hello-developer-dark-xlarge_2x.png
+cover: .gitbook/assets/Chroma Blue.jpg
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
