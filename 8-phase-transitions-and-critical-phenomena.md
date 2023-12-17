@@ -2,7 +2,7 @@
 description: 张子豪 22210307003
 ---
 
-# 9. Phase Transitions and Critical Phenomena
+# 8 Phase Transitions and Critical Phenomena
 
 #### 1. 范氏（Van der Waals）气体模型
 
@@ -71,7 +71,9 @@ $$p^{*}=1+\pi,\quad v^{*}=1+\phi,\quad t^{*}=1+t$$
 
 易得临界处范氏方程：
 
-\begin{align} \left\[(1+\pi)+\frac{3}{(1+\phi)^2}\right]\left\[3(1+\phi)-1\right]&=8(1+t) \ \left\[(1+\pi)(1+\phi)^2+3\right]\left\[3(1+\phi)-1\right]&=(8+8t)(1+\phi)^2 \ \left\[(1+\pi)(1+\phi^2+2\phi)+3\right]\left\[3(1+\phi)-1\right]&=(8+8t)(1+\phi^2+2\phi) \ (1+\phi^2+2\phi+\pi+\pi\phi^2+2\pi\phi+3)(2+3\phi)&=8t(1+\phi^2+2\phi)+8+8\phi^2+16\phi \ 8\pi\phi^2+7\pi\phi+2\pi+3(\pi+1)\phi^3&=8t(1+\phi^2+2\phi) \ \end{align}
+$$
+\begin{align} \left[(1+\pi)+\frac{3}{(1+\phi)^2}\right]\left[3(1+\phi)-1\right]&=8(1+t) \ \left[(1+\pi)(1+\phi)^2+3\right]\left[3(1+\phi)-1\right]&=(8+8t)(1+\phi)^2 \ \left[(1+\pi)(1+\phi^2+2\phi)+3\right]\left[3(1+\phi)-1\right]&=(8+8t)(1+\phi^2+2\phi) \ (1+\phi^2+2\phi+\pi+\pi\phi^2+2\pi\phi+3)(2+3\phi)&=8t(1+\phi^2+2\phi)+8+8\phi^2+16\phi \ 8\pi\phi^2+7\pi\phi+2\pi+3(\pi+1)\phi^3&=8t(1+\phi^2+2\phi) \ \end{align}
+$$
 
 $$\pi(2+7 \phi +8 \phi ^{2}+3 \phi ^{3})+3 \phi ^{3}=8t(1+2 \phi + \phi ^{2})$$
 
@@ -152,7 +154,7 @@ $$p-p_c\propto|\rho-\rho_c|^\delta$$(压强此时是极小值，但是由于密�
 
 $$H=-J \sum _{i,j}\sigma _{i}\sigma _{j}- \mu B \sum _{i}\sigma _{i}\qquad Ising模型$$
 
-$\<i,j>$表示近邻相互作用，$B$表示外场
+$$<i,j>$$表示近邻相互作用，$$B$$表示外场
 
 > 对于相互作用的系统，严格求解非常困难。通常采用各种形式的近似方法。平均场近似是将一个多粒子相互作用的问题近似为一个单体无相互作用的自恰问题。
 
