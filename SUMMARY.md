@@ -7,24 +7,17 @@
   * [1.3 Bash介绍与文本处理](0.-linux-commands/1.-bash-introduce.md)
   * [1.4 Linux命令附录](0.-linux-commands/1.4.-fu-lu.md)
   * [1.5 Mac Terminal](0.-linux-commands/3.-mac-terminal.md)
-
-## 2 ROOT Guide
-
-* [2.0 安装与使用](2.-root-guide/2.0.-an-zhuang-yu-shi-yong.md)
-* [2.1 文件与数据处理](2.-root-guide/2.1.-wen-jian-yu-shu-ju-chu-li.md)
-* [2.2 直方图 Histograms](2.-root-guide/2.2.-zhi-fang-tu-histograms.md)
-* [2.3 图表 Graphs](2.-root-guide/2.3.-tu-biao-graphs.md)
-* [2.4 拟合与误差 Fitting and Errors](2.-root-guide/2.4-ni-he-yu-wu-cha-fitting-and-errors.md)
-* [2.5 函数与图形 Function and Graphics](2.-root-guide/2.5.-han-shu-yu-tu-xing-function-and-graphics.md)
-* [2.6 属性设置 TAtt](2.-root-guide/2.5.0-shu-xing-she-zhi-tatt.md)
-  * [2.6.0 基础属性设置](2-root-guide/2.6-shu-xing-she-zhi-tatt/2.6.0-ji-chu-shu-xing-she-zhi.md)
-  * [2.6.1 颜色属性 TColor](2-root-guide/2.6-shu-xing-she-zhi-tatt/2.6.1-yan-se-shu-xing-tcolor.md)
-  * [2.6.2 轴属性 Axis](2.-root-guide/2.5.2-zhou-shu-xing-axis.md)
-  * [2.6.3 文字属性 TLatex](2.-root-guide/2.5.3-wen-zi-shu-xing-tlatex.md)
-
-***
-
-* [2 ROOT Guide](2-root-guide-1.md)
+* [2 ROOT Guide](2-root-guide/README.md)
+  * [2.0 安装与使用](2.-root-guide/2.0.-an-zhuang-yu-shi-yong.md)
+  * [2.1 文件与数据处理](2.-root-guide/2.1.-wen-jian-yu-shu-ju-chu-li.md)
+  * [2.2 直方图 Histograms](2.-root-guide/2.2.-zhi-fang-tu-histograms.md)
+  * [2.3 图表 Graphs](2.-root-guide/2.3.-tu-biao-graphs.md)
+  * [2.4 拟合与误差 Fitting and Errors](2.-root-guide/2.4-ni-he-yu-wu-cha-fitting-and-errors.md)
+  * [2.5 函数与图形 Function and Graphics](2.-root-guide/2.5.-han-shu-yu-tu-xing-function-and-graphics.md)
+  * [2.6 基础属性设置](2-root-guide/2.6-ji-chu-shu-xing-she-zhi.md)
+  * [2.6.1 颜色属性 TColor](2-root-guide/2.6.1-yan-se-shu-xing-tcolor.md)
+  * [2.6.2 轴属性 Axis](2-root-guide/2.6.2-zhou-shu-xing-axis.md)
+  * [2.6.3 文字属性 TLatex](2-root-guide/2.6.3-wen-zi-shu-xing-tlatex.md)
 * [3 Cosmic Rays and Particle Physics](5.-cosmic-rays-and-particle-physics.md)
 * [4 Astronomy](8.-tian-wen-xue.md)
 * [5 Gamma Ray Burst](5.-gamma-ray-burst.md)
