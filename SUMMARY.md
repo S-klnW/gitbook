@@ -23,7 +23,7 @@
   * [4.1 天文学概论](8.-tian-wen-xue/4.1-tian-wen-xue-gai-lun.md)
   * [4.2 天文学中的概率统计](8.-tian-wen-xue/4.2-tian-wen-xue-zhong-de-gai-shuai-tong-ji.md)
 * [5 Gamma Ray Burst](5.-gamma-ray-burst.md)
-* [6 Sensitivity calculation](7.-tan-ce-qi-ling-min-du-ji-suan-fang-fa.md)
+* [6 HADAR Sensitivity](7.-tan-ce-qi-ling-min-du-ji-suan-fang-fa.md)
 * [7 LaTeX Manual](7.-latex.md)
 * [8 Phase Transitions and Critical Phenomena](8.-phase-transitions-and-critical-phenomena.md)
 * [9 Python Astronomy](9-python-astronomy.md)
