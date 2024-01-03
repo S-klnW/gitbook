@@ -5,7 +5,7 @@
   * [1.1 系统管理类命令](0.-linux-commands/1.1-xi-tong-guan-li-lei-ming-ling.md)
   * [1.2 文件管理类命令](0.-linux-commands/1.2-wen-jian-guan-li-lei-ming-ling.md)
   * [1.3 Bashell 脚本编程](0.-linux-commands/1.-bash-introduce.md)
-  * [1.4 Linux 附录](0.-linux-commands/1.4-linux-fu-lu.md)
+  * [1.4 Linux 命令附录](0.-linux-commands/1.4-linux-ming-ling-fu-lu.md)
   * [1.5 Mac Terminal](0.-linux-commands/3.-mac-terminal.md)
 * [2 ROOT Guide](2-root-guide/README.md)
   * [2.0 安装与使用 Start](2-root-guide/2.0-an-zhuang-yu-shi-yong-start.md)
