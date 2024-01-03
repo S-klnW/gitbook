@@ -25,6 +25,6 @@
   * [3.4 Gamma Ray Burst](8.-tian-wen-xue/3.4-gamma-ray-burst.md)
 * [4 Python Astronomy](4-python-astronomy.md)
 * [5 LaTeX Manual](5-latex-manual.md)
-* [🔗 Link](link/README.md)
+* [Link](link/README.md)
   * [Phase Transitions and Critical Phenomena](https://note.ihep.ac.cn/s/m8k-rI-SL)
   * [HADAR Sensitivity](link/7.-tan-ce-qi-ling-min-du-ji-suan-fang-fa.md)
