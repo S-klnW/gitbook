@@ -31,6 +31,14 @@ description: 欢迎通过Link栏的“问题反馈”按钮添加你的分享
 
 
 
+
+
+Python
+
+* [Violent Python 中文版](https://wizardforcel.gitbooks.io/violent-python/content/index.html)
+
+
+
 ## 其他
 
 * [维基教科书](https://en.wikibooks.org/wiki/Main\_Page)
