@@ -1,6 +1,6 @@
 # 5 Python Astronomy
 
-Astropy绘制
+Astropy skt Map
 
 {% embed url="https://www.astropy.org" %}
 
@@ -10,9 +10,15 @@ Astropy绘制
 
 
 
-Sky Map & Earth Map
+Sky Map & Global Map&#x20;
 
 [https://blog.csdn.net/u010070526/article/details/81782082](https://blog.csdn.net/u010070526/article/details/81782082)&#x20;
+
+[https://scitools.org.uk/cartopy/docs/latest/gallery/index.html](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html)
+
+
+
+
 
 
 
