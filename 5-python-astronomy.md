@@ -20,5 +20,13 @@ Sky Map & Global Map&#x20;
 
 [https://ramiro.org/notebooks/](https://ramiro.org/notebooks/)
 
+[https://heredragonsabound.blogspot.com/2022/06/cleanup-time.html](https://heredragonsabound.blogspot.com/2022/06/cleanup-time.html)
+
+
+
+
+
+
+
 
 
