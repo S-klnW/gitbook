@@ -25,9 +25,9 @@ description: 欢迎通过Link栏的“问题反馈”按钮添加你的分享
 ## 在线工具
 
 * [WebPlotDigitizer｜在线坐标取数工具](https://apps.automeris.io/wpd/index.zh\_CN.html)
-* [Transfer.zip｜任意文件设备间互传](https://transfer.zip)
-* [AirPortal｜空投快传](https://airportal.cn)
-* [Snapdrop｜夸平台互传](https://snapdrop.net/)
+* [Transfer.zip｜跨平台互传](https://transfer.zip)
+* [AirPortal｜同局域网空投快传](https://snapdrop.net)
+* [Snapdrop｜跨平台互传](https://snapdrop.net/)
 
 
 
