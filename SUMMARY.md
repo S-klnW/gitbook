@@ -18,7 +18,7 @@
   * [2.6.1 颜色属性 TAttColor](2-root-guide/2.6.1-yan-se-shu-xing-tattcolor.md)
   * [2.6.2 轴属性 TAttAxis](2-root-guide/2.6.2-zhou-shu-xing-tattaxis.md)
   * [2.6.3 文字属性 TAttText & TLatex](2-root-guide/2.6.3-wen-zi-shu-xing-tatttext-tlatex.md)
-  * [2.7](2-root-guide/2.7.md)
+  * [2.7 root in juypter](2-root-guide/2.7-root-in-juypter.md)
 * [3 Cosmic Rays and Particle Physics](5.-cosmic-rays-and-particle-physics/README.md)
   * [3.1 粒子物理](5.-cosmic-rays-and-particle-physics/3.1-li-zi-wu-li.md)
   * [3.2 宇宙线](5.-cosmic-rays-and-particle-physics/3.2-yu-zhou-xian.md)
