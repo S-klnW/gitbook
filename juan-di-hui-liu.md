@@ -1,7 +1,3 @@
----
-description: 欢迎通过Link栏的“问题反馈”按钮添加你的分享
----
-
 # 涓滴汇流
 
 ## GitBook介绍
@@ -33,7 +29,7 @@ description: 欢迎通过Link栏的“问题反馈”按钮添加你的分享
 
 
 
-Python
+## Python
 
 * [Violent Python 中文版](https://wizardforcel.gitbooks.io/violent-python/content/index.html)
 
