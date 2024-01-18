@@ -14,7 +14,7 @@
   * [2.3 图表 Graphs](2-root-guide/2.3-tu-biao-graphs.md)
   * [2.4 误差与拟合 Errors and Fitting](2-root-guide/2.4-wu-cha-yu-ni-he-errors-and-fitting.md)
   * [2.5 函数与图形 Function & Graphics](2-root-guide/2.5-han-shu-yu-tu-xing-function-graphics.md)
-  * [2.6 属性设置 TAtt](2-root-guide/2.6-shu-xing-she-zhi-tatt.md)
+  * [2.6.0 属性设置 TAtt](2-root-guide/2.6.0-shu-xing-she-zhi-tatt.md)
   * [2.6.1 颜色属性 TAttColor](2-root-guide/2.6.1-yan-se-shu-xing-tattcolor.md)
   * [2.6.2 轴属性 TAttAxis](2-root-guide/2.6.2-zhou-shu-xing-tattaxis.md)
   * [2.6.3 文字属性 TAttText & TLatex](2-root-guide/2.6.3-wen-zi-shu-xing-tatttext-tlatex.md)
