@@ -30,5 +30,4 @@
 * [5 Python Astronomy](5-python-astronomy.md)
 * [6 LaTeX Notes](6-latex-notes.md)
 * [7 Statistical Mechanics](7-statistical-mechanics.md)
-* [HADAR Sensitivity](7.-tan-ce-qi-ling-min-du-ji-suan-fang-fa.md)
-* [涓滴汇流](juan-di-hui-liu.md)
+* [8 涓滴汇流](8-juan-di-hui-liu.md)
