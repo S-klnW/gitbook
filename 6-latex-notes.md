@@ -3,7 +3,9 @@ description: >-
   由于LaTeX是通过语法来排版的，任何想得到的东西，像是乐谱、棋谱（可动态）、化学结构式、电路图及物理学中的费曼图等等都可以先定义规则，然后再以简单的语法排版出来，甚至是中国象棋。
 ---
 
-# 7 LaTeX Manual
+# 6 LaTeX Notes
+
+
 
 ## 一些特殊的数学符号
 
@@ -32,6 +34,34 @@ description: >-
 ## 图片在文章中的位置
 
 [https://blog.csdn.net/LeonSUST/article/details/89332744](https://blog.csdn.net/LeonSUST/article/details/89332744)
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+## _参考_
+
+[_https://qyxf.site/latex/short-math-guide(cn).pdf_](https://qyxf.site/latex/short-math-guide\(cn\).pdf)
+
+
+
+
+
+
+
+
+
+
 
 
 
