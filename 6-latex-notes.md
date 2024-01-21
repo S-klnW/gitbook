@@ -7,6 +7,20 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 一些特殊的数学符号
 
 输入角度符号°
@@ -34,6 +48,22 @@ description: >-
 ## 图片在文章中的位置
 
 [https://blog.csdn.net/LeonSUST/article/details/89332744](https://blog.csdn.net/LeonSUST/article/details/89332744)
+
+
+
+
+
+
+
+
+
+
+
+一个在线LaTeX符号查询网站，你可以点击拷贝，使用方式非常傻瓜
+
+{% embed url="https://www.latexsymbols.cn/section-tips" %}
+[https://www.latexsymbols.cn/section-tips](https://www.latexsymbols.cn/section-tips)
+{% endembed %}
 
 
 
