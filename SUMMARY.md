@@ -30,4 +30,3 @@
 * [5 Python Astronomy](5-python-astronomy.md)
 * [6 LaTeX Notes](6-latex-notes.md)
 * [7 Statistical Mechanics](7-statistical-mechanics.md)
-* [8 涓滴汇流](juan-di-hui-liu.md)
