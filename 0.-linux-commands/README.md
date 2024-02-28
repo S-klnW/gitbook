@@ -1,6 +1,8 @@
 ---
-description: Linux 是免费可自由传播的类 Unix 操作系统，是一个基于 POSIX 和 Unix 的多用户、多任务、支持多线程和多 CPU 的操作系统。
+description: >-
+  Linux 本身指内核，只有加上其他组件之后才是真正意义上的“系统”。后来随着 Linux 的流行，人们逐渐默认了以 Linux
+  代指系统，所以严格的讲，Linux 系统应该被称作 GNU/Linux 系统。
 ---
 
-# 1. Linux Introduce
+# 1 Linux Introduce
 

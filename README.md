@@ -25,10 +25,4 @@ layout:
 
 
 
-!\[]\([https://img.shields.io/badge/JAVA-1.8+-green.svg](https://img.shields.io/badge/JAVA-1.8+-green.svg))
-
-
-
-
-
 **版本更新提示：3月1日起，发布版将会拥有全新界面，点击**[**此处**](https://open.gitbook.com/\~space/pf9IsLOaNy0SNtz1zmqo)**预览，欢迎提出你的意见！**
