@@ -22,3 +22,5 @@ layout:
 **手册状态**：Version 6.6.64
 
 **高亮提示：**<mark style="color:green;">**建议**</mark>** **<mark style="color:yellow;">**提示**</mark>** **<mark style="color:red;">**警告**</mark>** **<mark style="color:orange;">**重点**</mark> [<mark style="color:blue;">**链接**</mark>](0.-linux-commands/1.2-wen-jian-guan-li-lei-ming-ling.md#lian-jie)
+
+**排版规范：**[中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh-cn/latest/index.html)
