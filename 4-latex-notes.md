@@ -3,7 +3,13 @@ description: >-
   由于LaTeX是通过语法来排版的，任何想得到的东西，像是乐谱、棋谱（可动态）、化学结构式、电路图及物理学中的费曼图等等都可以先定义规则，然后再以简单的语法排版出来，甚至是中国象棋。
 ---
 
-# 6 LaTeX Notes
+# 4 LaTeX Notes
+
+一个在线LaTeX符号查询网站，点击拷贝，使用方式非常傻瓜
+
+{% embed url="https://www.latexsymbols.cn/section-tips" %}
+[https://www.latexsymbols.cn/section-tips](https://www.latexsymbols.cn/section-tips)
+{% endembed %}
 
 
 
@@ -12,22 +18,6 @@ description: >-
 
 
 
-
-
-
-
-
-
-
-
-
-## 一些特殊的数学符号
-
-输入角度符号°
-
-使用^表示上标，Icirc 表示小圆圈，因此角度符号可以写为：60^{\circ}:
-
-角的符号：/angle
 
 #### 约等
 
@@ -45,25 +35,11 @@ description: >-
 
 
 
-## 图片在文章中的位置
+## 调整图片在文章中的位置
 
 [https://blog.csdn.net/LeonSUST/article/details/89332744](https://blog.csdn.net/LeonSUST/article/details/89332744)
 
 
-
-
-
-
-
-
-
-
-
-一个在线LaTeX符号查询网站，你可以点击拷贝，使用方式非常傻瓜
-
-{% embed url="https://www.latexsymbols.cn/section-tips" %}
-[https://www.latexsymbols.cn/section-tips](https://www.latexsymbols.cn/section-tips)
-{% endembed %}
 
 
 
