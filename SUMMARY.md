@@ -21,7 +21,7 @@
   * [2.7 ROOT in Juypter](2-root-guide/2.7-root-in-juypter.md)
 * [3 Python Astronomy](3-python-astronomy.md)
 * [4 LaTeX Notes](4-latex-notes.md)
-* [5 Particle Phys. and Astronomy](5.-cosmic-rays-and-particle-physics/README.md)
+* [5 Particle Astrophysics](5.-cosmic-rays-and-particle-physics/README.md)
   * [5.1 粒子物理](5.-cosmic-rays-and-particle-physics/5.1-li-zi-wu-li.md)
   * [5.2 天文学](5.-cosmic-rays-and-particle-physics/5.2-tian-wen-xue.md)
   * [5.3 天文学中的概率统计](5.-cosmic-rays-and-particle-physics/5.3-tian-wen-xue-zhong-de-gai-shuai-tong-ji.md)
