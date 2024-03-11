@@ -11,31 +11,31 @@ description: >-
 [https://www.latexsymbols.cn/section-tips](https://www.latexsymbols.cn/section-tips)
 {% endembed %}
 
+## 在线编辑器 Overleaf
+
+[https://cn.overleaf.com](https://cn.overleaf.com/project)
 
 
 
+## 几种约等符号的用法
 
-
-
-
-
-#### 约等
-
-表达[约等](https://zh.wikipedia.org/wiki/%E7%B4%84%E7%AD%89)的是“[波浪](https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%B5%AA)”等号。
+表达约等的是“波浪”等号。
 
 ≈ (U+2248 ≈ unicode 2248)
 
-[≃](https://zh.wikipedia.org/w/index.php?title=%E2%89%83\&action=edit\&redlink=1) (U+2243 ≃ unicode 2243)，≈ 和 = 的混合，也用于代表[渐近于](https://zh.wikipedia.org/wiki/%E6%B8%90%E8%BF%91%E7%BA%BF)
+≃ (U+2243 ≃ unicode 2243)，≈ 和 = 的混合，也用于代表**渐近于**
 
-[≅](https://zh.wikipedia.org/wiki/%E2%89%85) (U+2245 ≅ unicode 2245)，另一个 ≈ 和 = 的混合，有时用来代表[同构](https://zh.wikipedia.org/wiki/%E5%90%8C%E6%A7%8B)、[同余关系](https://zh.wikipedia.org/wiki/%E5%90%8C%E9%A4%98%E9%97%9C%E4%BF%82)又或几何学的[全等](https://zh.wikipedia.org/wiki/%E5%85%A8%E7%AD%89)
+≅ (U+2245 ≅ unicode 2245)，另一个 ≈ 和 = 的混合，有时用来代表同构、同余关系又或几何学的全等
 
-[\~](https://zh.wikipedia.org/wiki/\~) (U+007E \~ unicode 007e)，有时用来代表[正比](https://zh.wikipedia.org/wiki/%E6%AF%94%E4%BE%8B)、和[等价关系](https://zh.wikipedia.org/wiki/%E7%AD%89%E5%83%B9%E9%97%9C%E4%BF%82)有关、几何学的[相似](https://zh.wikipedia.org/wiki/%E7%9B%B8%E4%BC%BC)，又或代表[随机变数](https://zh.wikipedia.org/wiki/%E9%9A%A8%E6%A9%9F%E8%AE%8A%E6%95%B8)根据[概率分布](https://zh.wikipedia.org/wiki/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83)的分布情况。
+\~ (U+007E \~ unicode 007e)，有时用来代表正比、和等价关系有关、几何学的相似，又或代表随机变数根据概率分布的分布情况。
 
-≒ (U+2252 ≒ unicode 2252)，用于[日本](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC)、[韩国](https://zh.wikipedia.org/wiki/%E9%9F%93%E5%9C%8B)和[台湾](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3)
+≒ (U+2252 ≒ unicode 2252)，用于日本、韩国和台湾
 
 
 
-## 调整图片在文章中的位置
+## 控制图片在文章中的位置
+
+[https://www.bilibili.com/video/BV1R64y1Q756/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=745889680230532a09ad7b768ffb84d1](https://www.bilibili.com/video/BV1R64y1Q756/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=745889680230532a09ad7b768ffb84d1)
 
 [https://blog.csdn.net/LeonSUST/article/details/89332744](https://blog.csdn.net/LeonSUST/article/details/89332744)
 
