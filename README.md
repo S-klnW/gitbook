@@ -22,3 +22,9 @@ layout:
 **手册状态**：Version 6.9.28
 
 **高亮提示：**<mark style="color:green;">**建议**</mark>** **<mark style="color:yellow;">**提示**</mark>** **<mark style="color:red;">**警告**</mark>** **<mark style="color:orange;">**重点**</mark> [<mark style="color:blue;">**链接**</mark>](0.-linux-commands/1.2-wen-jian-guan-li-lei-ming-ling.md#lian-jie)
+
+<div data-full-width="false">
+
+<figure><img src=".gitbook/assets/From particle physics to medecine.png" alt=""><figcaption><p>CERN70 Public events</p></figcaption></figure>
+
+</div>
