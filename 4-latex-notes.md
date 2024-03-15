@@ -5,13 +5,13 @@ description: >-
 
 # 4 LaTeX Notes
 
-一个在线LaTeX符号查询网站，点击拷贝，使用方式非常傻瓜
+在线 LaTeX 数学符号查询及复制网站，点击即可拷贝。
 
 {% embed url="https://www.latexsymbols.cn/section-tips" %}
 [https://www.latexsymbols.cn/section-tips](https://www.latexsymbols.cn/section-tips)
 {% endembed %}
 
-## 在线编辑器 Overleaf
+## 在线 LaTeX 编辑器 Overleaf
 
 [https://cn.overleaf.com](https://cn.overleaf.com/project)
 
@@ -38,6 +38,12 @@ description: >-
 [https://www.bilibili.com/video/BV1R64y1Q756/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=745889680230532a09ad7b768ffb84d1](https://www.bilibili.com/video/BV1R64y1Q756/?spm\_id\_from=333.337.search-card.all.click\&vd\_source=745889680230532a09ad7b768ffb84d1)
 
 [https://blog.csdn.net/LeonSUST/article/details/89332744](https://blog.csdn.net/LeonSUST/article/details/89332744)
+
+
+
+
+
+
 
 
 
