@@ -29,5 +29,5 @@
   * [5.5 相对论](5.-cosmic-rays-and-particle-physics/5.5-xiang-dui-lun.md)
   * [5.6 宇宙射线](5.-cosmic-rays-and-particle-physics/5.6-yu-zhou-she-xian.md)
   * [5.7 伽马射线暴](5.-cosmic-rays-and-particle-physics/5.7-qie-ma-she-xian-bao.md)
-  * [5.8 探测器](5.-cosmic-rays-and-particle-physics/5.8-tan-ce-qi.md)
+  * [5.8 探测技术](5.-cosmic-rays-and-particle-physics/5.8-tan-ce-ji-shu.md)
 * [6 Statistical Mechanics](6-statistical-mechanics.md)
