@@ -7,6 +7,8 @@ description: 本章节包含大量未整理内容，请耐心等待
 Astropy skt Map
 
 {% embed url="https://www.astropy.org" %}
+[https://www.astropy.org](https://www.astropy.org)
+{% endembed %}
 
 {% embed url="https://blog.csdn.net/qq_20163065/article/details/129625463" %}
 
