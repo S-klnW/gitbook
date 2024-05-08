@@ -5,15 +5,29 @@ description: >-
 
 # 4 LaTeX Notes
 
-在线 LaTeX 数学符号查询及复制网站，点击即可拷贝。
+## 在线 LaTeX 数学符号查询及复制网站，点击即可拷贝。
 
 {% embed url="https://www.latexsymbols.cn/section-tips" %}
 [https://www.latexsymbols.cn/section-tips](https://www.latexsymbols.cn/section-tips)
 {% endembed %}
 
+## LaTeX 入门与进阶介绍 <a href="#latex-ru-men-yu-jin-jie" id="latex-ru-men-yu-jin-jie"></a>
+
+{% embed url="https://latex.lierhua.top/zh/" %}
+[https://latex.lierhua.top/zh/](https://latex.lierhua.top/zh/)
+{% endembed %}
+
 ## 在线 LaTeX 编辑器 Overleaf
 
+{% embed url="https://cn.overleaf.com" %}
 [https://cn.overleaf.com](https://cn.overleaf.com/project)
+{% endembed %}
+
+
+
+
+
+
 
 
 
@@ -30,6 +44,10 @@ description: >-
 \~ (U+007E \~ unicode 007e)，有时用来代表正比、和等价关系有关、几何学的相似，又或代表随机变数根据概率分布的分布情况。
 
 ≒ (U+2252 ≒ unicode 2252)，用于日本、韩国和台湾
+
+
+
+
 
 
 
