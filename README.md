@@ -1,5 +1,5 @@
 ---
-description: 细推物理须行乐 何用浮名绊此身 ——《曲江二首》 杜甫
+description: 细推物理须行乐 何用浮名绊此身 —《曲江二首》 杜甫
 layout:
   title:
     visible: true
