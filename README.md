@@ -15,11 +15,11 @@ layout:
 
 # 学习手册
 
-**提交日期**： 2024.07.16
+**提交日期**： 2024.07.22
 
 **手册撰者**： 张子豪
 
-**手册状态**：Version 6.09.33
+**手册状态**：Version 6.09.34
 
 **高亮提示：**<mark style="color:green;">**建议**</mark>** **<mark style="color:yellow;">**提示**</mark>** **<mark style="color:red;">**警告**</mark>** **<mark style="color:orange;">**强调**</mark> [<mark style="color:blue;">**链接**</mark>](0.-linux-commands/1.2-wen-jian-guan-li-lei-ming-ling.md#lian-jie)
 
