@@ -21,6 +21,7 @@
   * [2.3.2 坐标轴属性](2-root-guide/2.3.2-zuo-biao-zhou-shu-xing.md)
   * [2.3.3 文字属性](2-root-guide/2.3.3-wen-zi-shu-xing.md)
   * [2.4 ROOT in Juypter](2-root-guide/2.4-root-in-juypter.md)
+  * [2.5 C语言](2-root-guide/2.5cyu-yan.md)
 * [3 Python Astronomy](3-python-astronomy.md)
 * [4 LaTeX Notes](4-latex-notes.md)
 * [5 Particle Astrophysics](5.-cosmic-rays-and-particle-physics/README.md)
