@@ -9,7 +9,7 @@
   * [1.5 MacOS Ventura](0.-linux-commands/3.-mac-terminal.md)
 * [2 ROOT Guide](2-root-guide/README.md)
   * [2.0 安装与使用](2-root-guide/2.0-an-zhuang-yu-shi-yong.md)
-  * [2.1 数据处理](2-root-guide/2.1-shu-ju-chu-li.md)
+  * [2.1 数据分析](2-root-guide/2.1-shu-ju-fen-xi.md)
   * [2.2 数据可视化](2-root-guide/2.2-shu-ju-ke-shi-hua.md)
   * [2.2.1 图表](2-root-guide/2.2.1-tu-biao.md)
   * [2.2.2 直方图](2-root-guide/2.2.2-zhi-fang-tu.md)
