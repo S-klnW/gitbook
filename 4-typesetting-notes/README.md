@@ -1,5 +1,4 @@
 ---
-noIndex: true
 layout:
   width: default
   title:
@@ -13,7 +12,7 @@ layout:
   pagination:
     visible: true
   metadata:
-    visible: false
+    visible: true
 ---
 
 # 4 Typesetting Notes
