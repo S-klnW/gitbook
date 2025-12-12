@@ -4,11 +4,11 @@ description: 细推物理须行乐 何用浮名绊此身 —《曲江二首》 �
 
 # 学习手册
 
-**提交日期**： 2025.12.11
+**提交日期**： 2025.12.12
 
 **手册撰者**： 张子豪
 
-**手册状态**：Version 7.3.997
+**手册状态**：Version 7.3.1073
 
 **高亮提醒：**<mark style="color:green;">**建议**</mark> <mark style="color:yellow;">**提示**</mark> <mark style="color:red;">**警告**</mark> <mark style="color:orange;">**强调**</mark>
 
