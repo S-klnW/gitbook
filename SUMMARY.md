@@ -20,7 +20,7 @@
   * [2.3.2 坐标轴属性](2-root-guide/2.3.2-zuo-biao-zhou-shu-xing.md)
   * [2.3.3 文字属性](2-root-guide/2.3.3-wen-zi-shu-xing.md)
   * [2.4 ROOT in Juypter](2-root-guide/2.4-root-in-juypter.md)
-  * [2.5 C语言](2-root-guide/2.5cyu-yan.md)
+  * [2.5 C语言补充](2-root-guide/2.5cyu-yan-bu-chong.md)
 * [3 Python Astronomy](3-python-astronomy.md)
 * [4 Typesetting Notes](4-typesetting-notes/README.md)
   * [4.1 LaTeX Web Tool](4-typesetting-notes/4.1-latex-web-tool.md)
