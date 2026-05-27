@@ -1,5 +1,23 @@
 ---
 description: 细推物理须行乐 何用浮名绊此身 —《曲江二首》 杜甫
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 学习手册
