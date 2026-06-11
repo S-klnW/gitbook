@@ -42,5 +42,5 @@ layout:
 
 ***
 
-[<sup><mark style="color:$info;">联系方式<mark style="color:$info;"></sup>](mailto:zzh@utibet.edu.cn) <sup><mark style="color:$info;">｜<mark style="color:$info;"></sup> [<sup><mark style="color:$info;">前往 Notion<mark style="color:$info;"></sup>](https://s-klnw.notion.site/)<sup><mark style="color:$info;">（此文档已归档）<mark style="color:$info;"></sup>
+[<sup><mark style="color:$info;">联系方式<mark style="color:$info;"></sup>](mailto:zzh@utibet.edu.cn) <sup><mark style="color:$info;">｜<mark style="color:$info;"></sup> [<sup><mark style="color:$info;">前往 Notion（此文档已归档）<mark style="color:$info;"></sup>](https://s-klnw.notion.site/)
 
