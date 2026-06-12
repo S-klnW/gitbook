@@ -27,7 +27,6 @@
 * [4 Typesetting Notes](4-typesetting-notes/README.md)
   * [4.1 LaTeX Web Tool](4-typesetting-notes/4.1-latex-web-tool.md)
   * [4.2 排版规范](4-typesetting-notes/4.2-pai-ban-gui-fan.md)
-  * [4.3 Office 技巧](4-typesetting-notes/4.3-office-ji-qiao.md)
 * [5 Particle Astrophysics](5.-cosmic-rays-and-particle-physics/README.md)
   * [5.1 粒子物理](5.-cosmic-rays-and-particle-physics/5.1-li-zi-wu-li.md)
   * [5.2 天文学](5.-cosmic-rays-and-particle-physics/5.2-tian-wen-xue.md)
