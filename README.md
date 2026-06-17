@@ -28,7 +28,7 @@ layout:
 
 **手册状态**：Version 9.11.24
 
-**高亮提醒：**<mark style="color:$success;">**建议**</mark> <mark style="color:$warning;">**提示**</mark> <mark style="color:$danger;">**警告**</mark>
+**高亮提醒**：<mark style="color:$success;">**建议**</mark> <mark style="color:$warning;">**提示**</mark> <mark style="color:$danger;">**警告**</mark>
 
 
 
