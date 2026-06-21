@@ -1,7 +1,7 @@
 # Table of contents
 
 * [学习手册](README.md)
-* [1 Linux Introduce](0.-linux-commands/README.md)
+* [1 Linux Introduction](0.-linux-commands/README.md)
   * [1.1 系统管理类命令](0.-linux-commands/1.1-xi-tong-guan-li-lei-ming-ling.md)
   * [1.2 文件管理类命令](0.-linux-commands/1.2-wen-jian-guan-li-lei-ming-ling.md)
   * [1.3 shell 脚本编程](0.-linux-commands/1.3-bash-introduce.md)
