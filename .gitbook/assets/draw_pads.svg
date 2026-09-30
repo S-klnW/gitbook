@@ -1,18 +1,18 @@
 <?xml version="1.0" standalone="no"?>
 <svg width="567.429" height="541.246" viewBox="0 0 567.429 541.246" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
 <title>
-/Users/zhangzh/ROOTfillcanvaspad.svg
+/Users/zhangzh/draw_pads.svg
 </title>
 <desc>
-Creator: ROOT Version 6.30/04
-CreationDate: Fri Jul  4 11:47:25 2025</desc>
+Creator: ROOT Version 6.30/08
+CreationDate: Wed Sep 30 16:48:22 2026</desc>
 <defs>
 </defs>
-<rect x="0.5" y="0" width="566.929" height="540.746" fill="#0000ff"/>
-<rect x="17.5079" y="16.2224" width="266.457" height="237.928" fill="#ff0000"/>
-<text xml:space="preserve" x="137.413" y="147.083" fill="black" font-size="15.7798" font-family="Helvetica" font-weight="bold">Pad 1</text>
-<rect x="300.972" y="16.2224" width="249.449" height="237.928" fill="#00ff00"/>
-<text xml:space="preserve" x="413.224" y="147.083" fill="black" font-size="15.7798" font-family="Helvetica" font-weight="bold">Pad 2</text>
+<rect x="0.5" y="0" width="566.929" height="540.746" fill="#7c99d1"/>
+<rect x="17.5079" y="16.2224" width="266.457" height="237.928" fill="#ce5e60"/>
+<text xml:space="preserve" x="137.413" y="147.083" fill="#5954d8" font-size="15.7798" font-family="Helvetica" font-weight="bold">Pad 1</text>
+<rect x="300.972" y="16.2224" width="249.449" height="237.928" fill="#84c1a3"/>
+<text xml:space="preserve" x="413.224" y="147.083" fill="#5954d8" font-size="15.7798" font-family="Helvetica" font-weight="bold">Pad 2</text>
 <rect x="17.5079" y="270.373" width="266.457" height="254.15" fill="white"/>
 <rect x="44.1535" y="295.788" width="213.165" height="203.32" fill="white"/>
 <rect x="44.1535" y="295.788" width="213.165" height="203.32" fill="none" stroke="black"/>
@@ -23,10 +23,10 @@ CreationDate: Fri Jul  4 11:47:25 2025</desc>
  2.13165, 1.85836l 2.13165, 0.679569l 2.13165, -0.632201l 2.13165, -2.04541l 2.13165, -3.52423l 2.13165, -5.02951l 2.13165, -6.51992l 2.13165, -7.95314l 2.13165, -9.28713l 2.13165, -10.4814l 2.13165, -11.4982l 2.13165, -12.304l 2.13165, -12.87l
  2.13165, -13.1737l 2.13165, -13.1992l 2.13165, -12.9381l 2.13165, -12.3896l 2.13165, -11.5609l 2.13165, -10.4667l 2.13165, -9.12933l 2.13165, -7.57776l 2.13165, -5.84706l 2.13165, -3.97737l 2.13165, -2.01276" fill="none" stroke="black"
  stroke-width="2"/>
-<path d="M149.67,305.47l 2.13165, 5.68434e-14l 2.13165, 2.01276l 2.13165, 3.97737l 2.13165, 5.84706l 2.13165, 7.57776l 2.13165, 9.12933l 2.13165, 10.4667l 2.13165, 11.5609l 2.13165, 12.3896l 2.13165, 12.9381l 2.13165, 13.1992l 2.13165, 13.1737l
- 2.13165, 12.87l 2.13165, 12.304l 2.13165, 11.4982l 2.13165, 10.4814l 2.13165, 9.28713l 2.13165, 7.95314l 2.13165, 6.51992l 2.13165, 5.02951l 2.13165, 3.52423l 2.13165, 2.04541l 2.13165, 0.632201l 2.13165, -0.679569l 2.13165, -1.85836l 2.13165,
- -2.87774l 2.13165, -3.71709l 2.13165, -4.362l 2.13165, -4.80455l 2.13165, -5.04335l 2.13165, -5.08335l 2.13165, -4.93549l 2.13165, -4.61612l 2.13165, -4.14633l 2.13165, -3.55108l 2.13165, -2.85826l 2.13165, -2.09767l 2.13165, -1.29996l 2.13165,
- -0.495629l 2.13165, 0.286021l 2.13165, 1.01782l 2.13165, 1.67554l 2.13165, 2.23865l 2.13165, 2.69084l 2.13165, 3.02045l 2.13165, 3.22069l 2.13165, 3.28969l 2.13165, 3.23042l 2.13165, 3.05034" fill="none" stroke="black" stroke-width="2"/>
+<path d="M149.67,305.47h 2.13165l 2.13165, 2.01276l 2.13165, 3.97737l 2.13165, 5.84706l 2.13165, 7.57776l 2.13165, 9.12933l 2.13165, 10.4667l 2.13165, 11.5609l 2.13165, 12.3896l 2.13165, 12.9381l 2.13165, 13.1992l 2.13165, 13.1737l 2.13165, 12.87l
+ 2.13165, 12.304l 2.13165, 11.4982l 2.13165, 10.4814l 2.13165, 9.28713l 2.13165, 7.95314l 2.13165, 6.51992l 2.13165, 5.02951l 2.13165, 3.52423l 2.13165, 2.04541l 2.13165, 0.632201l 2.13165, -0.679569l 2.13165, -1.85836l 2.13165, -2.87774l 2.13165,
+ -3.71709l 2.13165, -4.362l 2.13165, -4.80455l 2.13165, -5.04335l 2.13165, -5.08335l 2.13165, -4.93549l 2.13165, -4.61612l 2.13165, -4.14633l 2.13165, -3.55108l 2.13165, -2.85826l 2.13165, -2.09767l 2.13165, -1.29996l 2.13165, -0.495629l 2.13165,
+ 0.286021l 2.13165, 1.01782l 2.13165, 1.67554l 2.13165, 2.23865l 2.13165, 2.69084l 2.13165, 3.02045l 2.13165, 3.22069l 2.13165, 3.28969l 2.13165, 3.23042l 2.13165, 3.05034" fill="none" stroke="black" stroke-width="2"/>
 <path d="M254.121,461.181l 2.13165, 2.76107" fill="none" stroke="black" stroke-width="2"/>
 <path d="M44.1535,499.108h 213.165" fill="none" stroke="black"/>
 <path d="M44.1535,493.009v 6.09961" fill="none" stroke="black"/>
@@ -124,6 +124,6 @@ CreationDate: Fri Jul  4 11:47:25 2025</desc>
 <text xml:space="preserve" x="31.2371" y="368.845" fill="black" font-size="8.66079" font-family="Helvetica">0.6</text>
 <text xml:space="preserve" x="31.2371" y="338.108" fill="black" font-size="8.66079" font-family="Helvetica">0.8</text>
 <text xml:space="preserve" x="39.206" y="308.51" fill="black" font-size="8.66079" font-family="Helvetica">1</text>
-<text xml:space="preserve" x="137.413" y="460.986" fill="black" font-size="16.8216" font-family="Helvetica" font-weight="bold">Pad 3</text>
+<text xml:space="preserve" x="137.413" y="460.986" fill="#5954d8" font-size="16.8216" font-family="Helvetica" font-weight="bold">Pad 3</text>
 <text xml:space="preserve" x="131.417" y="282.326" fill="black" font-size="12.2183" font-family="Helvetica">sin(x)/x</text>
-<text xml:space="preserve" x="340.657" y="378.522" fill="black" font-size="35.2268" font-family="Helvetica" font-weight="bold">Canvas</text></svg>
+<text xml:space="preserve" x="369.004" y="432.597" fill="#5954d8" font-size="35.2268" font-family="Helvetica" font-weight="bold">Canvas</text></svg>
