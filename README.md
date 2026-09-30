@@ -38,7 +38,7 @@ layout:
 
 
 
-<sub><mark style="color:$info;">**人工智能辅助声明：**<mark style="color:$info;"></sub><sub><mark style="color:$info;">手册部分内容借助了人工智能辅助生成，并经人工审核校验，准确性与完整性由编写团队负责。<mark style="color:$info;"></sub>
+<sub><mark style="color:$info;">**人工智能辅助声明：**<mark style="color:$info;"></sub><sub><mark style="color:$info;">手册部分内容借助了人工智能辅助完成，并经人工审核校验，准确性与完整性由编写团队负责。<mark style="color:$info;"></sub>
 
 ***
 
