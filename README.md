@@ -24,11 +24,11 @@ layout:
 
 # 学习手册
 
-**提交日期**：2026.10.13
+**提交日期**：2026.10.27
 
 **手册撰者**：张子豪
 
-**手册状态**：Version 9.12.47
+**手册状态**：Version 9.12.48
 
 **高亮提醒**：<mark style="color:$success;">**建议**</mark> <mark style="color:$warning;">**提示**</mark> <mark style="color:$danger;">**警告**</mark>
 
